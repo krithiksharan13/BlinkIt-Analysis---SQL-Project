@@ -3,7 +3,9 @@
 # Blinkit Analysis SQL Project:
 A data-driven project aimed at analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to extract actionable insights and identify optimization opportunities using key performance indicators (KPIs) and granular segment-level analysis.
 
-**Tool Used:** MySQL Workbench  
+#🛠️Tool Used: 
+1. MySQL Workbench
+2. Microsoft Excel
 
 ## 📊 **Business Requirement**
 To conduct a comprehensive analysis of **Blinkit's** sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various **KPIs**.  

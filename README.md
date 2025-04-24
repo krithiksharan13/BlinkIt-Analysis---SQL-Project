@@ -1,6 +1,8 @@
 ![Blinkit Analysis](https://raw.githubusercontent.com/bhaskarpal1707/Blinkit-Analysis-SQL-Project/refs/heads/main/Blinkit-Image.webp)
 
-# Blinkit Analysis SQL Project  
+# Blinkit Analysis SQL Project:
+A data-driven project aimed at analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to extract actionable insights and identify optimization opportunities using key performance indicators (KPIs) and granular segment-level analysis.
+
 **Tool Used:** MySQL Workbench  
 
 ## 📊 **Business Requirement**
